@@ -193,7 +193,7 @@
                           </v-card-text>
                           <v-card-actions>
                             <v-spacer></v-spacer>
-                            <v-btn flat color="primary" @click="dialogq = false">Close</v-btn>
+                            <v-btn flat color="primary" @click="dialogq = false">Clomse</v-btn>
                           </v-card-actions>
                         </v-card>
                       </v-dialog>
